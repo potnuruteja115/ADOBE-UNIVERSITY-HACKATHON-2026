@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Assets/Banner-Adobe%20(1).png" alt="Adobe University Hackathon 2026 Banner" width="100%">
+  <img src="Assets/Banner-Adobe.png" alt="Adobe University Hackathon 2026 Banner" width="100%">
 </p>
 
 ---
