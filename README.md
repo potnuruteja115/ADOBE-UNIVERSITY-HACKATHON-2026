@@ -4,7 +4,8 @@
 
 ---
 
-# ADOBE-UNIVERSITY-HACKATHON-2026
+<h1 align="center">ADOBE UNIVERSITY HACKATHON 2026</h1>
+<p align="center"><b>Official Team Collaboration Workspace</b></p>
 
 Official team workspace for the Adobe University Hackathon 2026, featuring Round 1 preparation, solution ideation, research, architecture, AI development, prototype implementation, documentation, and final presentation materials.
 
